@@ -3,11 +3,11 @@
     <channel>
         <title>Upgrader Test App - Appcast</title>
         <item>
-            <title>Versi 1.1.0</title>
+            <title>Version 1.1.0</title>
             <description>Test Upgrader package (Force Update)</description>
             <pubDate>Sun, 21 Nov 2023 00:00:00 +0000</pubDate>
             <!-- URL custom yang bisa Anda ganti sesuai kebutuhan -->
-            <enclosure url="https://play.google.com/store/apps/developer?id=NoLimit+Indonesia" />
+            <enclosure url="https://play.google.com/store/apps/developer?id=NoLimit+Indonesia" sparkle:version="1.1.0" sparkle:os="android"/>
         </item>
     </channel>
 </rss>
