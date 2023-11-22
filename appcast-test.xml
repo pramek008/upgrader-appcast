@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Upgrader Test App - Appcast</title>
+        <item>
+            <title>Versi 1.1.0</title>
+            <description>Test Upgrader package (Force Update)</description>
+            <pubDate>Sun, 21 Nov 2023 00:00:00 +0000</pubDate>
+            <!-- URL custom yang bisa Anda ganti sesuai kebutuhan -->
+            <enclosure url="https://play.google.com/store/apps/developer?id=NoLimit+Indonesia" />
+        </item>
+    </channel>
+</rss>
