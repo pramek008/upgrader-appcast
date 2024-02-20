@@ -3,23 +3,23 @@
     <channel>
         <title>Upgrader Test App - Appcast</title>
         <item>
-            <title>Version 1.1.0 - iOS</title>
-            <sparkle:version>1.1.0</sparkle:version>
+            <title>Version 1.0.4 - iOS</title>
+            <sparkle:version>1.0.4</sparkle:version>
             <description>Test Upgrader package for iOS (Force Update)</description>
-            <pubDate>Wed, 16 Jan 2024 00:00:00 +0000</pubDate>
-            <enclosure url="https://example.com/your-ios-app-update"
-                    sparkle:version="1.1.0"
+            <pubDate>Thu, 21 Feb 2024 00:00:00 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/nolimit-engage/id6467582062"
+                    sparkle:version="1.0.4"
                     sparkle:os="iOS"
                     type="application/octet-stream"
                     length="123456" />
         </item>
         <item>
-            <title>Version 1.1.0 - Android</title>
-            <sparkle:version>1.1.0</sparkle:version>
+            <title>Version 1.0.4 - Android</title>
+            <sparkle:version>1.0.4</sparkle:version>
             <description>Test Upgrader package for Android (Force Update)</description>
-            <pubDate>Wed, 16 Jan 2024 00:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/developer?id=NoLimit+Indonesia"
-                    sparkle:version="1.1.0"
+            <pubDate>Thu, 21 Feb 2024 00:00:00 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=id.nolimit.engage"
+                    sparkle:version="1.0.4"
                     sparkle:os="android"
                     type="application/octet-stream"
                     length="123456" />
