@@ -7,7 +7,7 @@
             <sparkle:version>1.0.6</sparkle:version>
             <description>Test Upgrader package for iOS (Force Update)</description>
             <pubDate>Thu, 20 Feb 2024 00:00:00 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/nolimit-engage/id6467582062"
+            <enclosure url="https://apps.apple.com/id/app/nolimit-engage/id6467582062"
                     sparkle:version="1.0.6"
                     sparkle:os="iOS"
                     type="application/octet-stream"
